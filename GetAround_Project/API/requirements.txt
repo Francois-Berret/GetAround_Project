@@ -1,0 +1,10 @@
+fastapi 
+uvicorn[standard]
+pydantic 
+typing 
+pandas 
+gunicorn 
+mlflow 
+fsspec
+s3fs
+boto3
